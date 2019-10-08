@@ -382,6 +382,11 @@
                 <artifactId>maven-resources-plugin</artifactId>
                 <version>2.7</version>
             </plugin>
+            <plugin>
+                <groupId>io.xc5</groupId>
+                <artifactId>xvsa-maven-plugin</artifactId>
+                <version>1.39</version>
+            </plugin>
         </plugins>
     </build>
 
